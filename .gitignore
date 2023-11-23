@@ -1,0 +1,5 @@
+# ignore files in /src/data
+src/data/*
+# ignore files in /data/income
+data/income/*
+*.pkd
